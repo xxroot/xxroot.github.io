@@ -5,13 +5,13 @@ baseurl:
 url: https://www.cjroot.com
 date_format: "ordinal"
 title: Magisk_Zh
-description: "马壮的个人博客，公众号：闷骚的程序员"
+description: ""
 timezone: Asia/Shanghai
 encoding: "utf-8"
 # 页面左下角显示的年份
-since: 2015
+since: 2023
 # 源码仓库，请替换成自己的
-repository: mzlogin/mzlogin.github.io
+repository: xxroot/xxroot.github.io
 # 对 css 和 js 资源的 cdn 加速配置
 cdn:
     jsdelivr:
@@ -140,17 +140,17 @@ disqus:
     username: 
 # gitment 配置参考：https://imsun.net/posts/gitment-introduction/
 gitment:
-    owner: cjroot
-    repo: blog-comments
+    owner: xxroot
+    repo: cjroot
     oauth:
-        client_id: 697f7665fd10482e4bd1
-        client_secret: 45acec36dd43f64db4f24894cb6d9b8603a8e3fa
+        client_id: e7d2f11e1446faa47e5e
+        client_secret: be50ae4d9e978b9ce443c582325821c99919201f
 # gitalk 配置参考：https://github.com/gitalk/gitalk#install
 gitalk:
-    owner: cjroot
-    repo: blog-comments
-    clientID: 697f7665fd10482e4bd1
-    clientSecret: 45acec36dd43f64db4f24894cb6d9b8603a8e3fa
+    owner: xxroot
+    repo: cjroot
+    clientID: e7d2f11e1446faa47e5e
+    clientSecret: be50ae4d9e978b9ce443c582325821c99919201f
 # utterances 配置参考：https://utteranc.es/
 utterances:
     repo: cjroot/blog-comments
